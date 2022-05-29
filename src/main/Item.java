@@ -39,7 +39,7 @@ public class Item {
         return price;
     }
     
-    public void setPrice(int proce) {
+    public void setPrice(int price) {
         this.price = price;
     }
 }
